@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 h1 {
-  @apply text-4xl font-bold;
+  @apply text-5xl font-bold;
 }
 
 h2 {
